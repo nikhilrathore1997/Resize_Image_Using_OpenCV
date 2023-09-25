@@ -27,7 +27,7 @@ To use the Python version, follow these steps:
 
 # For C++ 
 ### Usage
-'''bash
+
 1.  mkdir build
 2.  cd build
 3.  cmake ..
