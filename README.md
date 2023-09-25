@@ -23,3 +23,13 @@ To use the Python version, follow these steps:
 
    ```bash
    python script.py input_directory output_directory --width 640 --height 480
+
+
+#For C++ 
+###Usage
+1.  mkdir build
+2.  cd build
+3.  cmake ..
+4.  cmake --build .
+5.  ./resize_images input_directory output_directory width height
+
